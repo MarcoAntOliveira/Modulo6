@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Criando meu primeiro arquivo do SQLite (db.sqlite3)}{1}{section.1}%
+\contentsline {section}{\numberline {2}Criando minha primeira tabela no SQLite3 (DBeaver opcional)}{1}{section.2}%
+\contentsline {section}{\numberline {3}nserindo valores (INSERT INTO), DELETE sem WHERE e zerando a sqlite}{1}{section.3}%
+\contentsline {section}{\numberline {4}Usando placeholders}{2}{section.4}%
+\contentsline {section}{\numberline {5}Inserindo vários valores com execute many}{2}{section.5}%
+\contentsline {section}{\numberline {6}execute e executemany com dicionários e lista de dicionários}{2}{section.6}%
+\contentsline {section}{\numberline {7}SELECT do SQL com fetch no SQLite3 do Python}{3}{section.7}%
+\contentsline {section}{\numberline {8}O que é CRUD + DELETE com e sem WHERE no SQLite3 do Python}{3}{section.8}%
+\contentsline {section}{\numberline {9}DELETE no SQLite do Python}{4}{section.9}%
+\contentsline {section}{\numberline {10}UPDATE no SQLite com Python}{4}{section.10}%
