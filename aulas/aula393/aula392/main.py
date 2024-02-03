@@ -31,12 +31,29 @@ sql =  (f'INSERT INTO {TABLE_NAME}'
         '(name, weight)'
         'VALUES'    
         '(:nome, :peso)')
-cursor.execute(sql, 
-               {'nome': 'joana','peso' :5},
-               {'nome': 'marcos','peso' :9},
-               {'nome': 'rafael','peso' :87})
+cursor.executemany(sql,( {'nome': 'joana','peso' :5},
+                    {'nome': 'marcos','peso' :9},
+                    {'nome': 'rafael','peso' :87}))
 connection.commit()
 
+if __name__ == "__main__":
+    cursor.execute(f'SELECT * FROM {TABLE_NAME} '
+               'WHERE id = "3"')
+    for row in cursor.fetchall():
+        _id, name, weight = row
+        print (_id, name, weight)
+    connection.commit()
 
-cursor.close()
-connection.close
+    cursor.execute(
+        f'UPDATE {TABLE_NAME}'
+        'SET name="Qualquer"'
+        'WHERE id = 1'
+    )
+    connection.commit()
+
+    cursor.execute(f'DELETE  FROM {TABLE_NAME} '
+               'WHERE id = "2"')
+    connection.commit()
+
+    cursor.close()
+    connection.close    
