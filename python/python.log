@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.24)  1 FEB 2024 09:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.24)  1 FEB 2024 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -333,20 +333,20 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
  ***********
 Package rerunfilecheck Info: File `python.out' has not changed.
-(rerunfilecheck)             Checksum: 4AC6B5DB058DE3B60EA17A3018E282CD;2920.
+(rerunfilecheck)             Checksum: 4EBCC21604DC2279924072CAF5728523;2925.
  ) 
 Here is how much of TeX's memory you used:
- 11675 strings out of 475503
- 176778 string characters out of 5761834
+ 11674 strings out of 475503
+ 176763 string characters out of 5761834
  2168248 words of memory out of 5000000
  32564 multiletter control sequences out of 15000+600000
  565732 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,511b,1939s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,516b,1939s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\marco\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\marco\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\marco\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\marco\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\marco\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on python.pdf (4 pages, 122244 bytes).
+Output written on python.pdf (4 pages, 122061 bytes).
 PDF statistics:
- 595 PDF objects out of 1000 (max. 8388607)
- 257 named destinations out of 1000 (max. 500000)
+ 594 PDF objects out of 1000 (max. 8388607)
+ 256 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

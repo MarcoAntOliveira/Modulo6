@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1706791075 "c:/Users/marco/projetos/curso_python/Modulo6/python/python.tex" "python.pdf" "python" 1706791077 0
+["pdflatex"] 1706814885 "c:/Users/marco/projetos/curso_python/Modulo6/python/python.tex" "python.pdf" "python" 1706814887 0
   "C:/Users/marco/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1700767405 167675 373e6c8d8c88f6ccf727224ef7c10c81 ""
   "C:/Users/marco/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1690492439 25420 38f536b750bc7adab96838f5f8f1ff7f ""
   "C:/Users/marco/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1690296954 40136 24642c4ed4fcf693fdb10b640eb4e0de ""
@@ -78,11 +78,11 @@
   "C:/Users/marco/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/marco/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/marco/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/marco/projetos/curso_python/Modulo6/python/python.tex" 1706791073 7404 b57d6ac714f47e540748c01b68387c30 ""
-  "python.aux" 1706791077 1982 00d3567f5b5399fa8336b5518221a381 "pdflatex"
-  "python.out" 1706791077 2920 4ac6b5db058de3b60ea17a3018e282cd "pdflatex"
-  "python.tex" 1706791073 7404 b57d6ac714f47e540748c01b68387c30 ""
-  "python.toc" 1706791077 1018 ba4064423252757d250797935bf542a5 "pdflatex"
+  "c:/Users/marco/projetos/curso_python/Modulo6/python/python.tex" 1706814882 7381 993580b45686ddd7f64b3a3b3218a89f ""
+  "python.aux" 1706814886 1983 ade3a44dfc2dc96444f4687722a0ebc4 "pdflatex"
+  "python.out" 1706814886 2925 4ebcc21604dc2279924072caf5728523 "pdflatex"
+  "python.tex" 1706814882 7381 993580b45686ddd7f64b3a3b3218a89f ""
+  "python.toc" 1706814886 1019 418902ef35a329285d5f435629d6eef1 "pdflatex"
   (generated)
   "python.aux"
   "python.log"
