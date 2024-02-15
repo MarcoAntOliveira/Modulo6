@@ -1,5 +1,6 @@
 ## Sumario
 
+$$
 # tentsline {section}{\numberline {1}Criando meu primeiro arquivo do SQLite (db.sqlite3)}{1}{section.1}
 
 # tentsline {section}{\numberline {2}Criando minha primeira tabela no SQLite3 (DBeaver opcional)}{1}{section.2}
@@ -44,3 +45,4 @@
 
 # tentsline {section}{\numberline {22}SSCursor, SSDictCursor e scroll para conjuntos de dados muito grandes}{10}{section.22}
 
+$$

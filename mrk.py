@@ -21,13 +21,13 @@ section_titles = [extract_section_title(line) for line in toc_lines]
 print(section_titles)
 
 # Formatando para Markdown
-markdown_toc = "## Sumario\n\n"
+markdown_toc = "## Sumario\n\n$$"
 for title in section_titles:
     # Calculando o nível da seção
     level = title.count('sub') + 1
     # Convertendo para Markdown, adicionando a devida indentação
     markdown_toc += f"{'#' * level} {title}\n\n"
-
+markdown_toc += "$$"
 # Escrevendo o sumário formatado para Markdown em um arquivo
 with open('README.md', 'w') as markdown_file:
     markdown_file.write(markdown_toc)
