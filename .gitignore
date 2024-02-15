@@ -1,0 +1,16 @@
+.DS_Store
+chromedriver
+mysql_206
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+./aux
+./fdb_latexmk
+./fls  
+./log
+./out
+./synctex.gz
+./toc
+./toc
